@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZubiyanAhmed
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on a GUI Project of Java with DBMS through MongoDB
 - 📫 How to reach me @zubiyan.ahmed (ig)
 
 <!---
